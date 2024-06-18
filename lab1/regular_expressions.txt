@@ -1,0 +1,22 @@
+reserved -> RESERVED
+
+id -> [a-zA-Z_][a-zA-Z0-9_]*
+
+digit -> [0-9]
+digits -> digit+
+//intnum -> (sign | ε)digits
+//sign -> + | -
+
+character -> '?' // 任何字符
+
+relop ->
+    <   |
+    >   |
+    <=  |
+    >=  |
+    ==  |
+    !=      // not equal
+
+operator -> + | - | * | /
+
+assignment -> = | += | -= | *= | /=

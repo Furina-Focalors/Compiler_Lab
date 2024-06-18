@@ -1,0 +1,16 @@
+S
+a
+b
+Furina
+S
+A
+B
+Furina
+S->aBS
+S->bAS
+S->@
+A->a
+A->bAA
+B->b
+B->aBB
+Furina
