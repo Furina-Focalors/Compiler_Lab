@@ -1,4 +1,5 @@
 # Compiler_Lab
+<<<<<<< HEAD
 这是《编译原理》课程实验的代码，包含了词法分析器和语法分析器的部分实现，有关编译原理的更多代码可以看我的另一个仓库（lex）。以下内容摘自我的实验报告
 
 ## 词法分析器
@@ -296,3 +297,6 @@ void analyze(const std::vector<Symbol> &inputStream, const std::map<std::pair<Sy
 
 
 
+=======
+《编译原理》课程实验
+>>>>>>> c668d523e9013aa042352568ca0cebe084d78b32
